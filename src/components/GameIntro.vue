@@ -9,8 +9,8 @@ defineEmits<{ play: [] }>()
         <span class="word-ra">ra</span><span class="word-feet">feet</span>
       </div>
       <p class="intro-sub">
-        23 vidéos. Les pieds de Raphaël.<br />
-        Sauras-tu deviner ce qu'ils font ?
+        23 vidéos. les pieds de Raphaël.<br />
+        sauras-tu deviner ce qu'ils font ?
       </p>
       <button class="btn-play" @click="$emit('play')">
         jouer →
