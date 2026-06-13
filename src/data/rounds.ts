@@ -262,7 +262,7 @@ export const rounds: Round[] = [
     question: 'ce village norvégien. les pieds de Raphaël s\'arrêtent pour…',
     answers: [
       { label: 'A', text: 'un café gourmand (ça existe pas ici mais bon)' },
-      { label: 'B', text: 'tester si "levrette empailletée" se dit en norvégien' },
+      { label: 'B', text: 'tester si "c\'est cochon" se dit en norvégien' },
       { label: 'C', text: 'profiter d\'une minute de vie normale, pour changer' },
       { label: 'D', text: 's\'approvisionner avant d\'aller sauter de la falaise du coin' },
     ],
@@ -303,7 +303,7 @@ export const rounds: Round[] = [
       { label: 'A', text: 'jouer en attendant le saut du lendemain' },
       { label: 'B', text: 'utiliser les boules pour simuler des trajectoires de vol' },
       { label: 'C', text: 'perdre lamentablement contre Tony qui triche' },
-      { label: 'D', text: 'rentrer sur Toulouse (le billard norvégien c\'est nul)' },
+      { label: 'D', text: 'rentrer chez eux (le billard norvégien c\'est nul)' },
     ],
     correctAnswer: 'A',
   },
